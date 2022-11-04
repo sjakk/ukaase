@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello! I am <b>ukase</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    「 Linux Kernel Developer @ 🐦 <b>OpenGL</b> 」<br>
+    「 Game Developer @ 🐦 <b>OpenGL</b> 」<br>
   </samp>
 </p>
 
